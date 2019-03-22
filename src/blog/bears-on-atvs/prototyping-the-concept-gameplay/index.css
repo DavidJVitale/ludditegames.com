@@ -18,16 +18,13 @@ body {
 img {
     height: auto;
     width: auto;
-    max-width: 90%;
-    max-height: 50%;
-    height: auto;
-    vertical-align: middle;
+    max-width: 100%;
+    height: auto;  
 }
 
 p {
     font-family: Arial;
     font-size: medium;
-    text-align: center;
 }
 
 
