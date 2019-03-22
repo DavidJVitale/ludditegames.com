@@ -13,7 +13,15 @@ body {
     font-size:18px;
     color:#444;
     padding:0 10px
+
   }
+
+img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    height: auto;  
+}
 
 p {
     font-family: Arial;

@@ -8,22 +8,25 @@ body {
 
     /*Text image section*/
     margin:40px auto;
-    max-width:650px;
+    max-width:750px;
     line-height:1.6;
     font-size:18px;
     color:#444;
     padding:0 10px
   }
 
-p {
-    font-family: Arial
+img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    height: auto;  
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+p {
+    font-family: Arial;
+    font-size: medium;
 }
+
 
 h1,h2,h3 {
   line-height:1.2;
@@ -32,4 +35,8 @@ h1,h2,h3 {
 
 a {
     color: #777AFF;
+}
+
+img {
+    color: #444
 }
