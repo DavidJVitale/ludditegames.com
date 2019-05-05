@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/*nav.site-nav {
+    line-height: 78px;
+}
+
+a.site-title{
+    height: inherit;
+}*/
+
+/*
+nav.site-nav{
+    height: 78px;
+    line-height: 78px;
+    text-align: center;
+}
+*/
+
+img.header-icon {
+    float: left;
+    height: 3em;
+    width: auto;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
