@@ -23,9 +23,11 @@
         {%- include social.html -%}
       </div>
 
+      {%- if page.hide_description_footer != true -%}
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
+      {%- endif -%}
     </div>
 
   </div>
