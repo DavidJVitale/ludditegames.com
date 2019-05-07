@@ -3,7 +3,8 @@ layout: post
 title:  "Prototyping the Concept—Gameplay"
 date:   2019-04-12 09:49:37 -0400
 author: David Vitale
-categories: jekyll update
+categories: ["blog", "bears-on-atvs"]
+tags: ["Bears on ATVs", "Prototyping", "Gameplay"]
 featured: true
 ---
 
@@ -14,15 +15,15 @@ featured: true
 
 <h2>I Couldn't Bear It</h2>
 
-<p>I have always wanted to create a release a complete video game, and the concept was right in front me. I am a professional software developer, so naturally I prioritize the programming and gameplay. What is the first step in materializing this concept? What is the simplest problem I can solve right away? It all starts with a wheel.
+<p>I have always wanted to create a release a complete video game, and the concept was right in front me. I am a professional software developer, so naturally I prioritize the programming and gameplay. What is the first step in materializing this concept? What is the simplest problem I can solve right away? It all starts with a wheel.<br>
 
-<h3><code>v0.0.1-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.1-alpha">Wheely <img src="/assets/github_128.png"></a></h3>
+<div class="github-link"><h3>v0.0.1-alpha: <b><a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.1-alpha">Wheely <img src="/assets/github_64_noborder.png"></a></b></h3></div>
 
 <img src="https://user-images.githubusercontent.com/18691334/39685328-74e52de2-5187-11e8-8a30-ef4bdbaf5f25.gif">
 <br>
 <p>I am an avid Linux user who loves open-source software, which led me to choose <a href="https://godotengine.org/">Godot</a> and <a href="https://godotengine.org/article/introducing-csharp-godot">C#</a> to target a 2D sidescroller. I read through the docs, experimented a lot, and ultimately implemented my own "Wheel" mechanics against arbitrary polygons. It looks and feels like one wheel of an ATV&mdash;one problem solved, one concept materialized. And once you have one wheel, <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.2-alpha">why not two?</a> Why not <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.3-alpha">put a "Bear" on this "ATV"</a>? Why not add a camera and checkpoints?</p>
 
-<h3><code>v0.0.4-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.4-alpha">Checkpoints, Camera, Animation <img src="/assets/github_logo.png"></a></h3>
+<div class="github-link"><h3><code>v0.0.4-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.4-alpha">Checkpoints, Camera, Animation <img src="/assets/github_64_noborder.png"></a></h3></div>
 
 <img src="https://user-images.githubusercontent.com/18691334/50744016-2277c100-11e4-11e9-98f9-4f7e797ff3e8.gif">
 <br>
@@ -31,7 +32,7 @@ featured: true
 
 <p>Mechanics aren't everything. What makes this concept of a bear on an ATV so infatuating? What makes good video games fun? Two games come to my mind: <a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2">Sonic the Hedgehog 2</a> and <a href="https://en.wikipedia.org/wiki/Katamari_Damacy">Katamari Damacy</a>. Going fast in Sonic, shooting off ramps, getting flung around by springs and powerups&mdash;that's what hooks me into playing this classic. And Katamari? There's something satisfying about menacing a virtual society in such a silly way.</p>
 
-<h3><code>v0.0.8-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.8-alpha">Speedboosts, Food, Enemies <img src="/assets/github_logo.png"></a></h3>
+<div class="github-link"><h3>v0.0.8-alpha: <b><a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.8-alpha">Speedboosts, Food, Enemies <img src="/assets/github_64_noborder.png"></a></b></h3></div>
 
 <img src="https://user-images.githubusercontent.com/18691334/54767981-4421fb00-4bcc-11e9-867a-dbb5ee87af64.gif">
 

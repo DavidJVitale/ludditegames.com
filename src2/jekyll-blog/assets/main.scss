@@ -4,6 +4,22 @@
 
 @import "minima";
 
+header.site-header {
+    position: fixed;
+    height: 3.5em;
+    width: 100%;
+    background: inherit
+}
+
+main.page-content{
+    margin: 3.5em;
+}
+
+.github-link img{
+    height: 1em;
+    width: 1em;
+}
+
 img.header-icon {
     float: left;
     height: 3em;
