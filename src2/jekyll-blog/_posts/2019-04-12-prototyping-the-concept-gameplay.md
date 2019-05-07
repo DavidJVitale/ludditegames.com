@@ -4,6 +4,7 @@ title:  "Prototyping the Concept—Gameplay"
 date:   2019-04-12 09:49:37 -0400
 author: David Vitale
 categories: jekyll update
+featured: true
 ---
 
 <p><font size="6">I was hiking</font> with friends in Alaska on a multi-use trail (we were on foot, but there were also people on off-road vehicles like ATVs), when we suddenly encountered a black bear about 30 feet in front of us.</p>
@@ -15,7 +16,7 @@ categories: jekyll update
 
 <p>I have always wanted to create a release a complete video game, and the concept was right in front me. I am a professional software developer, so naturally I prioritize the programming and gameplay. What is the first step in materializing this concept? What is the simplest problem I can solve right away? It all starts with a wheel.
 
-<h3><code>v0.0.1-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.1-alpha">Wheely <img src="/assets/github_logo.png"></a></h3>
+<h3><code>v0.0.1-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.1-alpha">Wheely <img src="/assets/github_128.png"></a></h3>
 
 <img src="https://user-images.githubusercontent.com/18691334/39685328-74e52de2-5187-11e8-8a30-ef4bdbaf5f25.gif">
 <br>

@@ -4,22 +4,6 @@
 
 @import "minima";
 
-/*nav.site-nav {
-    line-height: 78px;
-}
-
-a.site-title{
-    height: inherit;
-}*/
-
-/*
-nav.site-nav{
-    height: 78px;
-    line-height: 78px;
-    text-align: center;
-}
-*/
-
 img.header-icon {
     float: left;
     height: 3em;
@@ -28,4 +12,11 @@ img.header-icon {
     padding-bottom: 0.25em;
     padding-left: 0.5em;
     padding-right: 0.5em;
+}
+
+div.social-icon-container {
+    display: grid;
+    grid-template-columns: 4em 4em 4em;
+    grid-template-rows: 4em;
+    justify-content: end;
 }
