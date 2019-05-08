@@ -5,8 +5,10 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     {%- if page.hide_title_logo_header != true-%}
-    <a href="{{ "/" | relative_url }}"><img class="header-icon" src="/assets/icon.png"></a>
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div class="header-icon-title-container">
+        <a href="{{ "/" | relative_url }}"><img class="header-icon" src="/assets/icon.png"></a>
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
     {%- endif -%}
 
     {%- if page_paths -%}

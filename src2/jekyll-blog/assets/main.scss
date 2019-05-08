@@ -8,7 +8,8 @@ header.site-header {
     position: fixed;
     height: 3.5em;
     width: 100%;
-    background: inherit
+    background: inherit;
+    border-top: 0px solid #424242;
 }
 
 main.page-content{
@@ -30,9 +31,29 @@ img.header-icon {
     padding-right: 0.5em;
 }
 
+.header-icon-title-container:hover{
+    opacity: 0.5;
+}
+
+a.site-title{
+    text-decoration: none;
+}
+
+.page-link:hover{
+    opacity: 0.5;
+}
+
+a.page-link{
+    text-decoration: none;
+}
+
 div.social-icon-container {
     display: grid;
     grid-template-columns: 4em 4em 4em;
     grid-template-rows: 4em;
     justify-content: end;
+}
+
+.social-icon-img:hover{
+    opacity: 0.5;
 }
