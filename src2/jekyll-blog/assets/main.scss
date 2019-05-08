@@ -16,7 +16,9 @@ header.site-header {
 }
 
 main.page-content{
-    margin: 3.5em;
+    margin-top: 3.5em;
+    margin-right: 3.5em;
+    margin-left: 3.5em;
 }
 
 img.header-icon {
@@ -35,6 +37,7 @@ img.header-icon {
 
 a.site-title{
     text-decoration: none;
+    letter-spacing: 0.01em;
 }
 
 .page-link:hover{
@@ -62,7 +65,7 @@ div.social-icon-container {
     display: grid;
     grid-template-columns: 4em 4em 4em;
     grid-template-rows: 4em;
-    justify-content: end;
+    justify-content: center;
 }
 
 .social-icon-img:hover{
@@ -71,8 +74,21 @@ div.social-icon-container {
 
 p.mission-statement{
     opacity:0.67;
+    text-align: center;
 }
 
 .contact-list{
     opacity:0.67;
+    text-align: center;
+}
+
+/*mobile specific*/
+@media screen and (max-width: 768px){
+    main.page-content{
+        margin-top: 3.5em;
+        margin-right: 1em;
+        margin-left: 1em;
+}
+
+
 }
