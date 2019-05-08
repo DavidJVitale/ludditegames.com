@@ -8,7 +8,7 @@ tags: ["Bears on ATVs", "Prototyping", "Gameplay"]
 featured: true
 ---
 
-<p><font size="6">I was hiking</font> with friends in Alaska on a multi-use trail (we were on foot, but there were also people on off-road vehicles like ATVs), when we suddenly encountered a black bear about 30 feet in front of us.</p>
+<p><font size="6">I was hiking</font> with friends in Alaska on a multi-use trail (we were on foot, but there were also people on off-road vehicles), when we suddenly encountered a black bear about 30 feet in front of us.</p>
 <img src="/assets/black-bear.jpg">
 <br>
 <p>We followed the correct protocols and slowly backed away. While anxiously waiting for the bear to leave, I heard the faint sound of an ATV in the distance coming towards us on the trail. In that heightened emotional state, my immediate thought was <b>"$#%@#, the bear commandeered an ATV and is coming for us"</b>. I became infatuated with that mental image of a 500 lb beast hurling towards me at 60 mph on a metal death machine.</p>
@@ -23,14 +23,14 @@ featured: true
 <br>
 <p>I am an avid Linux user who loves open-source software, which led me to choose <a href="https://godotengine.org/">Godot</a> and <a href="https://godotengine.org/article/introducing-csharp-godot">C#</a> to target a 2D sidescroller. I read through the docs, experimented a lot, and ultimately implemented my own "Wheel" mechanics against arbitrary polygons. It looks and feels like one wheel of an ATV&mdash;one problem solved, one concept materialized. And once you have one wheel, <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.2-alpha">why not two?</a> Why not <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.3-alpha">put a "Bear" on this "ATV"</a>? Why not add a camera and checkpoints?</p>
 
-<div class="github-link"><h3><code>v0.0.4-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.4-alpha">Checkpoints, Camera, Animation <img src="/assets/github_64_noborder.png"></a></h3></div>
+<div class="github-link"><h3><code>v0.0.4-alpha</code>: <a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.4-alpha"><b>Checkpoints, Camera, Animation </b><img src="/assets/github_64_noborder.png"></a></h3></div>
 
 <img src="https://user-images.githubusercontent.com/18691334/50744016-2277c100-11e4-11e9-98f9-4f7e797ff3e8.gif">
 <br>
 
-<h2>Implying Video Games Are For Fun</h2>
+<h2>"Implying Video Games Are for Fun"</h2>
 
-<p>Mechanics aren't everything. What makes this concept of a bear on an ATV so infatuating? What makes good video games fun? Two games come to my mind: <a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2">Sonic the Hedgehog 2</a> and <a href="https://en.wikipedia.org/wiki/Katamari_Damacy">Katamari Damacy</a>. Going fast in Sonic, shooting off ramps, getting flung around by springs and powerups&mdash;that's what hooks me into playing this classic. And Katamari? There's something satisfying about menacing a virtual society in such a silly way.</p>
+<p>Mechanics aren't everything. What makes this concept of a bear on an ATV so infatuating? What makes good video games fun? Two of my favorite games come to mind: <a href="https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2">Sonic the Hedgehog 2</a> and <a href="https://en.wikipedia.org/wiki/Katamari_Damacy">Katamari Damacy</a>. Sonic sprints through levels are high speeds, shoots off ramps, gets flung aprings and powerups. And Katamari? There's something satisfying about menacing a virtual society in such a silly way.</p>
 
 <div class="github-link"><h3>v0.0.8-alpha: <b><a href="https://github.com/ludditegames/bears_on_atvs/releases/tag/v0.0.8-alpha">Speedboosts, Food, Enemies <img src="/assets/github_64_noborder.png"></a></b></h3></div>
 
@@ -40,6 +40,4 @@ featured: true
 
 <h2>Just Getting Started</h2>
 
-<p>I am brand new to game development, and I am having a lot of fun. But there is a <i>lot</i> of work to do. I will continue to prototype out this concept iteratively, slowly grinding towards that goal. I've gotten a materialized taste of this ludicrous mental image of a bear riding an ATV, and I need more.
-
-
+<p>I am brand new to game development, and I am having a lot of fun. But there is a <i>lot</i> of work to do. I will continue to prototype out this concept iteratively, slowly materializing this concept.</p>

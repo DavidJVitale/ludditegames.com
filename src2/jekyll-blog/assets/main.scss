@@ -4,21 +4,19 @@
 
 @import "minima";
 
+/*Header section*/
+
 header.site-header {
     position: fixed;
     height: 3.5em;
     width: 100%;
     background: inherit;
     border-top: 0px solid #424242;
+    border-bottom: 1px solid #e8e8e8;
 }
 
 main.page-content{
     margin: 3.5em;
-}
-
-.github-link img{
-    height: 1em;
-    width: 1em;
 }
 
 img.header-icon {
@@ -47,6 +45,19 @@ a.page-link{
     text-decoration: none;
 }
 
+/*Homepage section*/
+div.featured-posts-container{
+   border-top: 1px solid #e8e8e8;
+   padding-top: 1em;
+}
+
+/*Posts section*/
+.github-link img{
+    height: 1em;
+    width: 1em;
+}
+
+/*Footer section*/
 div.social-icon-container {
     display: grid;
     grid-template-columns: 4em 4em 4em;
@@ -56,4 +67,12 @@ div.social-icon-container {
 
 .social-icon-img:hover{
     opacity: 0.5;
+}
+
+p.mission-statement{
+    opacity:0.67;
+}
+
+.contact-list{
+    opacity:0.67;
 }
