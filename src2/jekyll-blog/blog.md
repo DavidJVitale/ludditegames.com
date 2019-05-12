@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: blog
 title: Blog
 permalink: /blog/
 ---
 
-Here's a blog
+Every blog post from this site is indexed below.
