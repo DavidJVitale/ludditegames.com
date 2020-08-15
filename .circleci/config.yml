@@ -1,0 +1,53 @@
+defaults: &defaults
+  working_directory: ~/repo/
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    docker:
+      - image: circleci/ruby:2.5
+    environment:
+      BUNDLE_PATH: ~/repo/vendor/bundle
+    steps:
+      - checkout
+      - run:
+          name: Update Bundler to 2
+          command: gem install bundler
+      - run:
+          name: Bundle Install
+          command: bundle install
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _site
+            - deploy.py
+  deploy:
+    <<: *defaults
+    docker:
+      - image: circleci/python:3.6.3
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Install AWS CLI
+          command: sudo pip install awscli --upgrade
+      - run:
+          name: Sanity print current directory
+          command: ls -la ./
+      - run:
+          name: Run deploy script
+          command: python ./deploy.py
+workflows:
+  version: 2
+  test-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master

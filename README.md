@@ -1,1 +1,1 @@
-The website that currently exists at https://ludditegames.com. Feel free to use any of the HTML/CSS/JS for any purpose, but please do not use any of the media/content of blog posts without proper attribution.
+The website that currently exists at https://alvariusgames.com. Feel free to use any of the HTML/CSS/JS for any purpose, but please do not use any of the media/content of blog posts without proper attribution.

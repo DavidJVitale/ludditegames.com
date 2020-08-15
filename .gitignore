@@ -1,2 +1,7 @@
 __pycache__
 _cloudfront_mappings.py
+downloads/
+.sass-cache/
+_site/
+_deploy/
+game-jams/
