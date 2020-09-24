@@ -5,7 +5,9 @@ hide_contact_footer: true
 permalink: /bears-on-atvs/
 ---
 
-Bears on ATVs is an in-progress 2D sidescroller about a rogue bears that learns to drive an ATV. [Play the 1-level alpha now!](/blog/bears-on-atvs/alpha-1-1-released)
+Bears on ATVs is an in-progress 2D sidescroller about a rogue bear that learns to drive an ATV. 
+
+# [Play now!](/blog/bears-on-atvs/alpha-1-2-released)
 
 ![](/assets/gameplay2.gif)
 

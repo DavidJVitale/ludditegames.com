@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alpha 0.1.1 Released!"
-date:   2019-03-13
+date:   2020-03-13
 author: David Vitale
 categories: ["blog", "bears-on-atvs"]
 tags: ["Bears on ATVs", "Release", "alpha"]
