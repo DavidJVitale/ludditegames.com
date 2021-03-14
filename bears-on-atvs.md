@@ -7,9 +7,9 @@ permalink: /bears-on-atvs/
 
 Bears on ATVs is an in-progress 2D sidescroller about a rogue bear that learns to drive an ATV. 
 
-# [Play now!](/blog/bears-on-atvs/alpha-1-2-released)
+# [Play now!](/blog/bears-on-atvs/alpha-1-3-released)
 
-![](/assets/gameplay2.gif)
+![](/assets/v013alpha.gif)
 
 ## Backstory
 
