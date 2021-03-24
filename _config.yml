@@ -25,7 +25,7 @@ plugins:
   - jekyll-feed
 
 permalink: /:categories/:title
-header_pages: ['bears-on-atvs.md', 'blog.md', 'about.md']
+header_pages: ['bearcycle.md', 'bears-on-atvs.md', 'blog.md', 'about.md']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
